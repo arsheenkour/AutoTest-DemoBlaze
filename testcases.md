@@ -9,7 +9,7 @@
 #### (a) Test Scenarios
 1. User logs in with valid credentials
 2. User attempts to log in with invalid credentials
-3. Login modal closes when 'Close' is clicked
+
 
 #### (b) High-Level Manual Test Cases
 
