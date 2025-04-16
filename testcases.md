@@ -17,7 +17,7 @@
 |--------------|--------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|
 | TC_Login_01  | Login with valid credentials   | 1. Click **Login**<br>2. Enter valid username & password<br>3. Click **Login** button   | User is logged in and sees **Welcome [user]** |
 | TC_Login_02  | Login with invalid credentials | 1. Click **Login**<br>2. Enter invalid credentials<br>3. Click **Login** button         | Error appears or login is rejected          |
-| TC_Login_03  | Close login modal              | 1. Click **Login**<br>2. Click **Close** button on modal                                | Login modal closes                          |
+
 
 ---
 
